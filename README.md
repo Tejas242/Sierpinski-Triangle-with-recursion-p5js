@@ -16,4 +16,4 @@ You can also check out the [YouTube tutorial video](https://www.youtube.com/watc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This code is available for anyone to use and modify as they see fit.
